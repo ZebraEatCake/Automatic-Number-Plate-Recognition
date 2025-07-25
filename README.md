@@ -53,6 +53,7 @@ Run the following command:
 python infer_and_ocr.py --folder ./data/unseen --model best_model.pth
 
 🔍 Notes
+
 OCR Engine: Uses EasyOCR with grayscale + Otsu thresholding for better text extraction from license plates.
 
 Regex Matching: Ensures the extracted text matches Malaysian license plate formats.
