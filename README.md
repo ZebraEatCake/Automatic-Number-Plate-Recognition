@@ -22,6 +22,7 @@ cv_summonsystem/
 ├── training.py           # Training of the Faster R-CNN model
 
 🧠 Model Overview
+
 main.py
 This script is responsible for training and testing the Faster R-CNN model with a MobileNetV3 backbone for license plate detection. It is not involved in OCR or data lookup. Use this if you want to retrain or fine-tune the model.
 
@@ -35,7 +36,9 @@ This is the main pipeline script. It:
 5. Matches against a simulated summons list
 6. Displays predictions and labels on the image
 
+
 ▶️ How to Run Inference
+
 To run the full detection + OCR + summons check pipeline on your own images:
 
 1. Add Your Data
@@ -51,6 +54,7 @@ pip install -r requirements.txt
 Run the following command:
 
 python infer_and_ocr.py --folder ./data/unseen --model best_model.pth
+
 
 🔍 Notes
 
