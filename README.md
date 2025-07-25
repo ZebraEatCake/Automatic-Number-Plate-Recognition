@@ -1,6 +1,8 @@
 📁 Project Structure
 cv_summonsystem/
+
 │
+
 ├── data                  # Dataset of license plates images used for training and testing
 
 │   ├── unseen/           # Place your own test images here
