@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>WB402L_jpg.rf.50103781501b430b6db6b4e191bec94d.jpg</filename>
+	<path>WB402L_jpg.rf.50103781501b430b6db6b4e191bec94d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>246</xmin>
+			<xmax>339</xmax>
+			<ymin>684</ymin>
+			<ymax>793</ymax>
+		</bndbox>
+		<polygon>
+			<x1>245</x1>
+			<y1>724</y1>
+			<x2>323</x2>
+			<y2>792</y2>
+			<x3>338</x3>
+			<y3>742</y3>
+			<x4>261</x4>
+			<y4>683</y4>
+			<x5>245</x5>
+			<y5>724</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

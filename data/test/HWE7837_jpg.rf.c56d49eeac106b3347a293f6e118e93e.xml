@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>HWE7837_jpg.rf.c56d49eeac106b3347a293f6e118e93e.jpg</filename>
+	<path>HWE7837_jpg.rf.c56d49eeac106b3347a293f6e118e93e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1013</xmin>
+			<xmax>1166</xmax>
+			<ymin>761</ymin>
+			<ymax>868</ymax>
+		</bndbox>
+		<polygon>
+			<x1>1014</x1>
+			<y1>867</y1>
+			<x2>1165</x2>
+			<y2>806</y2>
+			<x3>1163</x3>
+			<y3>760</y3>
+			<x4>1012</x4>
+			<y4>815</y4>
+			<x5>1014</x5>
+			<y5>867</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>QAA2266A_jpg.rf.90b9931deb76ac94cf390802cef73f67.jpg</filename>
+	<path>QAA2266A_jpg.rf.90b9931deb76ac94cf390802cef73f67.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2012</width>
+		<height>1342</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>432</xmin>
+			<xmax>704</xmax>
+			<ymin>665</ymin>
+			<ymax>816</ymax>
+		</bndbox>
+		<polygon>
+			<x1>435</x1>
+			<y1>781.25</y1>
+			<x2>683.75</x2>
+			<y2>815</y2>
+			<x3>702.5</x3>
+			<y3>685</y3>
+			<x4>431.25</x4>
+			<y4>663.75</y4>
+			<x5>435</x5>
+			<y5>781.25</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

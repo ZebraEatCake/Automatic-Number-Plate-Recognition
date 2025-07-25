@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>HWD2222_jpg.rf.3dfcad5376d7545cb921e8e8a2bfc1dc.jpg</filename>
+	<path>HWD2222_jpg.rf.3dfcad5376d7545cb921e8e8a2bfc1dc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>959</xmin>
+			<xmax>1114</xmax>
+			<ymin>609</ymin>
+			<ymax>686</ymax>
+		</bndbox>
+		<polygon>
+			<x1>958</x1>
+			<y1>682</y1>
+			<x2>1107</x2>
+			<y2>685</y2>
+			<x3>1113</x3>
+			<y3>608</y3>
+			<x4>962</x4>
+			<y4>608</y4>
+			<x5>958</x5>
+			<y5>682</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

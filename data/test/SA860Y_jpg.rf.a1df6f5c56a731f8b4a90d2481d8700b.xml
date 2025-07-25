@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>SA860Y_jpg.rf.a1df6f5c56a731f8b4a90d2481d8700b.jpg</filename>
+	<path>SA860Y_jpg.rf.a1df6f5c56a731f8b4a90d2481d8700b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>713</xmin>
+			<xmax>923</xmax>
+			<ymin>665</ymin>
+			<ymax>804</ymax>
+		</bndbox>
+		<polygon>
+			<x1>712</x1>
+			<y1>803</y1>
+			<x2>922</x2>
+			<y2>768</y2>
+			<x3>916</x3>
+			<y3>664</y3>
+			<x4>712</x4>
+			<y4>694</y4>
+			<x5>712</x5>
+			<y5>803</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

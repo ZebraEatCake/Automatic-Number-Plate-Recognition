@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>WNF7367_jpg.rf.3c3f1c5b12418119dae2d164fc9090b6.jpg</filename>
+	<path>WNF7367_jpg.rf.3c3f1c5b12418119dae2d164fc9090b6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1077</width>
+		<height>808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>561</xmin>
+			<xmax>699</xmax>
+			<ymin>524</ymin>
+			<ymax>561</ymax>
+		</bndbox>
+		<polygon>
+			<x1>560</x1>
+			<y1>559.230769</y1>
+			<x2>695.384615</x2>
+			<y2>560</y2>
+			<x3>697.692308</x3>
+			<y3>524.615385</y3>
+			<x4>563.076923</x4>
+			<y4>523.076923</y4>
+			<x5>560</x5>
+			<y5>559.230769</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

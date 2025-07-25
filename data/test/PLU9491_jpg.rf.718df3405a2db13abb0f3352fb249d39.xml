@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>PLU9491_jpg.rf.718df3405a2db13abb0f3352fb249d39.jpg</filename>
+	<path>PLU9491_jpg.rf.718df3405a2db13abb0f3352fb249d39.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1000</xmin>
+			<xmax>1172</xmax>
+			<ymin>763</ymin>
+			<ymax>860</ymax>
+		</bndbox>
+		<polygon>
+			<x1>1007</x1>
+			<y1>859</y1>
+			<x2>1171</x2>
+			<y2>810</y2>
+			<x3>1164</x3>
+			<y3>762</y3>
+			<x4>999</x4>
+			<y4>811</y4>
+			<x5>1007</x5>
+			<y5>859</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

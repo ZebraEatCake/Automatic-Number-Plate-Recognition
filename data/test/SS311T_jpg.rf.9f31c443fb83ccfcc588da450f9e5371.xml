@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>SS311T_jpg.rf.9f31c443fb83ccfcc588da450f9e5371.jpg</filename>
+	<path>SS311T_jpg.rf.9f31c443fb83ccfcc588da450f9e5371.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1012</xmin>
+			<xmax>1150</xmax>
+			<ymin>727</ymin>
+			<ymax>856</ymax>
+		</bndbox>
+		<polygon>
+			<x1>1016.000515</x1>
+			<y1>855</y1>
+			<x2>1148.000515</x2>
+			<y2>829</y2>
+			<x3>1149.000515</x3>
+			<y3>726</y3>
+			<x4>1011.000515</x4>
+			<y4>752</y4>
+			<x5>1016.000515</x5>
+			<y5>855</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Kedah_KeretaSewa_Plate-1-_jpg.rf.ed840cbae2cbda22bb27201cff922883.jpg</filename>
+	<path>Kedah_KeretaSewa_Plate-1-_jpg.rf.ed840cbae2cbda22bb27201cff922883.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>528</xmax>
+			<ymin>204</ymin>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ST5555R_jpg.rf.ff47f5b4669e7584f132f2c7d646f135.jpg</filename>
+	<path>ST5555R_jpg.rf.ff47f5b4669e7584f132f2c7d646f135.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>919</xmin>
+			<xmax>1321</xmax>
+			<ymin>395</ymin>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

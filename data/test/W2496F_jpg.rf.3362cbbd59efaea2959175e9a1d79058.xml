@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>W2496F_jpg.rf.3362cbbd59efaea2959175e9a1d79058.jpg</filename>
+	<path>W2496F_jpg.rf.3362cbbd59efaea2959175e9a1d79058.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>971</xmin>
+			<xmax>1264</xmax>
+			<ymin>615</ymin>
+			<ymax>720</ymax>
+		</bndbox>
+		<polygon>
+			<x1>980</x1>
+			<y1>719</y1>
+			<x2>1263</x2>
+			<y2>690</y2>
+			<x3>1245</x3>
+			<y3>614</y3>
+			<x4>970</x4>
+			<y4>639</y4>
+			<x5>980</x5>
+			<y5>719</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

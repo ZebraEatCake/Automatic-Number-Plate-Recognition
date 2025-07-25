@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>QAA1805X_jpg.rf.eef02dd3bb2d0dc87628e389e07c9781.jpg</filename>
+	<path>QAA1805X_jpg.rf.eef02dd3bb2d0dc87628e389e07c9781.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>989</xmin>
+			<xmax>1133</xmax>
+			<ymin>653</ymin>
+			<ymax>768</ymax>
+		</bndbox>
+		<polygon>
+			<x1>988</x1>
+			<y1>767</y1>
+			<x2>1132</x2>
+			<y2>745</y2>
+			<x3>1131</x3>
+			<y3>652</y3>
+			<x4>989</x4>
+			<y4>673</y4>
+			<x5>988</x5>
+			<y5>767</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

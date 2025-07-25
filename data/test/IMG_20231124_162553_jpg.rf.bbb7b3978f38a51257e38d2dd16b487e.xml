@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20231124_162553_jpg.rf.bbb7b3978f38a51257e38d2dd16b487e.jpg</filename>
+	<path>IMG_20231124_162553_jpg.rf.bbb7b3978f38a51257e38d2dd16b487e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>397</xmin>
+			<xmax>646</xmax>
+			<ymin>746</ymin>
+			<ymax>827</ymax>
+		</bndbox>
+		<polygon>
+			<x1>638.17059</x1>
+			<y1>767.88696</y1>
+			<x2>395.712412</x2>
+			<y2>744.993466</y2>
+			<x3>397.262578</x3>
+			<y3>799.659136</y3>
+			<x4>644.862506</x4>
+			<y4>826.414723</y4>
+			<x5>638.17059</x5>
+			<y5>767.88696</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

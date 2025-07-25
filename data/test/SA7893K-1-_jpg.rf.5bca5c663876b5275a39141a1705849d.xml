@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>SA7893K-1-_jpg.rf.5bca5c663876b5275a39141a1705849d.jpg</filename>
+	<path>SA7893K-1-_jpg.rf.5bca5c663876b5275a39141a1705849d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>367</xmin>
+			<xmax>509</xmax>
+			<ymin>640</ymin>
+			<ymax>749</ymax>
+		</bndbox>
+		<polygon>
+			<x1>366</x1>
+			<y1>720</y1>
+			<x2>493</x2>
+			<y2>748</y2>
+			<x3>508</x3>
+			<y3>657</y3>
+			<x4>372</x4>
+			<y4>639</y4>
+			<x5>366</x5>
+			<y5>720</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

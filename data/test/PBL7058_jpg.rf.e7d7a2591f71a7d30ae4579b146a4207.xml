@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>PBL7058_jpg.rf.e7d7a2591f71a7d30ae4579b146a4207.jpg</filename>
+	<path>PBL7058_jpg.rf.e7d7a2591f71a7d30ae4579b146a4207.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>820</xmin>
+			<xmax>1024</xmax>
+			<ymin>762</ymin>
+			<ymax>807</ymax>
+		</bndbox>
+		<polygon>
+			<x1>819</x1>
+			<y1>806</y1>
+			<x2>1015</x2>
+			<y2>799</y2>
+			<x3>1023</x3>
+			<y3>761</y3>
+			<x4>821</x4>
+			<y4>763</y4>
+			<x5>819</x5>
+			<y5>806</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

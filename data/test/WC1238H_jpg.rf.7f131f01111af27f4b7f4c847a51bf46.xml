@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>WC1238H_jpg.rf.7f131f01111af27f4b7f4c847a51bf46.jpg</filename>
+	<path>WC1238H_jpg.rf.7f131f01111af27f4b7f4c847a51bf46.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1190</width>
+		<height>893</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>695</xmin>
+			<xmax>853</xmax>
+			<ymin>420</ymin>
+			<ymax>472</ymax>
+		</bndbox>
+		<polygon>
+			<x1>700.833333</x1>
+			<y1>470.833333</y1>
+			<x2>851.666667</x2>
+			<y2>466.666667</y2>
+			<x3>849.166667</x3>
+			<y3>419.166667</y3>
+			<x4>694.166667</x4>
+			<y4>421.666667</y4>
+			<x5>700.833333</x5>
+			<y5>470.833333</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

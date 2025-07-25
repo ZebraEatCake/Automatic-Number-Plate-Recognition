@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>WA208_jpg.rf.e7dc73bbadfe9fad743a763f52d5ffa7.jpg</filename>
+	<path>WA208_jpg.rf.e7dc73bbadfe9fad743a763f52d5ffa7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>889</xmin>
+			<xmax>1049</xmax>
+			<ymin>678</ymin>
+			<ymax>731</ymax>
+		</bndbox>
+		<polygon>
+			<x1>893.636364</x1>
+			<y1>730</y1>
+			<x2>1048.181818</x2>
+			<y2>720</y2>
+			<x3>1046.363636</x3>
+			<y3>677.272727</y3>
+			<x4>888.181818</x4>
+			<y4>684.545455</y4>
+			<x5>893.636364</x5>
+			<y5>730</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

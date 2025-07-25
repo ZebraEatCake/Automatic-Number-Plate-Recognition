@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>KV2308A_jpg.rf.82be04f5f1795d09d0bd321e4948c8a3.jpg</filename>
+	<path>KV2308A_jpg.rf.82be04f5f1795d09d0bd321e4948c8a3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>606</xmin>
+			<xmax>792</xmax>
+			<ymin>769</ymin>
+			<ymax>864</ymax>
+		</bndbox>
+		<polygon>
+			<x1>606</x1>
+			<y1>860</y1>
+			<x2>791</x2>
+			<y2>863</y2>
+			<x3>790</x3>
+			<y3>769</y3>
+			<x4>605</x4>
+			<y4>768</y4>
+			<x5>606</x5>
+			<y5>860</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

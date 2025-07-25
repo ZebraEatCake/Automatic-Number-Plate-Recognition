@@ -1,0 +1,41 @@
+<annotation>
+	<folder></folder>
+	<filename>VDD9379_jpg.rf.dae87634f98496064fbc8c1864832224.jpg</filename>
+	<path>VDD9379_jpg.rf.dae87634f98496064fbc8c1864832224.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1007</xmin>
+			<xmax>1176</xmax>
+			<ymin>642</ymin>
+			<ymax>727</ymax>
+		</bndbox>
+		<polygon>
+			<x1>1007</x1>
+			<y1>726</y1>
+			<x2>1175</x2>
+			<y2>698</y2>
+			<x3>1170</x3>
+			<y3>641</y3>
+			<x4>1006</x4>
+			<y4>666</y4>
+			<x5>1007</x5>
+			<y5>726</y5>
+		</polygon>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
