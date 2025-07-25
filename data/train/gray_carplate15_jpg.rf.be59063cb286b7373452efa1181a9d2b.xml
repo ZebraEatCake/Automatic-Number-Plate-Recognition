@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>gray_carplate15_jpg.rf.be59063cb286b7373452efa1181a9d2b.jpg</filename>
+	<path>gray_carplate15_jpg.rf.be59063cb286b7373452efa1181a9d2b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>634</xmax>
+			<ymin>19</ymin>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
