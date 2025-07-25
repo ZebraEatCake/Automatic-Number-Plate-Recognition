@@ -2,13 +2,21 @@
 cv_summonsystem/
 │
 ├── data                  # Dataset of license plates images used for training and testing
+
 │   ├── unseen/           # Place your own test images here
-├── venv/                 # Python virtual environment with libraries required installed
+
 ├── best_model.pth        # Best RCNN model
+
 ├── datasets.py           #Checks for annotations labeled as "License Plate" and parses them into tensor format for model training.
+
 ├── infer_and_ocr.py      # Inference script to run detection + OCR + summons check
+
 ├── main.py               # Main program
+
+├── requirements.txt      # Dependencies required to run the program
+
 ├── testing.py            # Evaluation of the Faster R-CNN model
+
 ├── training.py           # Training of the Faster R-CNN model
 
 🧠 Model Overview
@@ -30,10 +38,17 @@ To run the full detection + OCR + summons check pipeline on your own images:
 
 1. Add Your Data
 Place any test images in the folder: ./data/unseen
-*Make sure images are in .jpg, .jpeg, or .png format.
-2. Open command prompt inside the main cv_summonsystem folder
-3. Type: venv\Scripts\activate
-4. Type: python infer_and_ocr.py --folder ./data/unseen --model best_model.pth
+Make sure images are in .jpg, .jpeg, or .png format.
+
+2. Install Dependencies
+Open a command prompt inside the main cv_summonsystem folder and run:
+
+pip install -r requirements.txt
+
+3. Run Inference
+Run the following command:
+
+python infer_and_ocr.py --folder ./data/unseen --model best_model.pth
 
 🔍 Notes
 OCR Engine: Uses EasyOCR with grayscale + Otsu thresholding for better text extraction from license plates.
